@@ -8,7 +8,10 @@ I am a React Frontend Developer with a history of writing clean, well-documented
 
 *   🚀  I'm currently working on [Crwn-Clothing](http://rococo-basbousa-2a9b2f.netlify.app)
 *   🧠  I'm learning Typescript and Wordpress
-*   🤝  I'm open to collaborating on React and JS projects### Skills 
+*   🤝  I'm open to collaborating on React and JS projects
+
+### Skills 
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
