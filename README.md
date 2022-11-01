@@ -6,7 +6,7 @@ Frontend Web Developer
 
 I am a React Frontend Developer with a history of writing clean, well-documented, and functional code. I am very passionate about my work, and I create websites almost pixel-perfectly by the design because I am not satisfied if my work doesn't replicate the design at least almost perfectly, and I use JSDoc to document all my code very well to everyone working with me! I work for hours every day to get to become a better web developer, and I love sharing my knowledge with others!
 
-*   🚀  I'm currently working on [Crwn-Clothing](http://rococo-basbousa-2a9b2f.netlify.app)
+*   🚀  I'm currently working on Making A Portfolio
 *   🧠  I'm learning Typescript and Wordpress
 *   🤝  I'm open to collaborating on React and JS projects
 
