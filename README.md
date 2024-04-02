@@ -4,7 +4,7 @@ Hi 👋 My name is Danijel Adrinek
 Frontend Web Developer
 -----------------------------------------------------
 
-I'm a Shopify Frontend Developer, weaving clean, well-documented, and downright magical code spells. With an obsession for precision, I transform design dreams into pixel-perfect web realities. Armed with JSDoc enchantments, I make sure my code speaks fluently to fellow developers. Every day is a quest for web-development improvements, fueled by endless hours of crafting Shopify wonders. And to all my fellow developers that are still learning or need help, feel free to reach out, I will respond as soon as I can! 🚀✨
+I'm a Frontend Developer, weaving clean, well-documented, and downright magical code spells. With an obsession for precision, I transform design dreams into pixel-perfect web realities. Armed with JSDoc enchantments, I make sure my code speaks fluently to fellow developers. Every day is a quest for web-development improvements, fueled by endless hours of crafting React wonders. And to all my fellow developers that are still learning or need help, feel free to reach out, I will respond as soon as I can! 🚀✨
 
 *   ✉️  You can contact me at [dadrinek00@gmail.com](mailto:dadrinek00@gmail.com)
 *   🤝  I'm open to collaborating on Shopify, ReactJS, and JS Projects
