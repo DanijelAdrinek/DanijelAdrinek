@@ -10,9 +10,11 @@ I'm a Frontend Developer, weaving clean, well-documented, and downright magical 
 *   🤝  I'm open to collaborating on Shopify, ReactJS, and JS Projects
 *   💻  Currently working on making a Portfolio in NextJS with lighthouse/unlighthouse API implementation to be able to show my site's performance statistics to users
 
-   ### Skills 
+### Skills
 
+ 
 <p align="left">
+   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><Image src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
 <a href="https://shopify.com/](https://www.svgrepo.com/show/354341/shopify.svg" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/354341/shopify.svg" width="36" height="36" alt="Shopify" />
 </a>
