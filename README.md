@@ -8,7 +8,7 @@ I'm a Frontend Developer, weaving clean, well-documented, and downright magical 
 
 *   ✉️  You can contact me at [dadrinek00@gmail.com](mailto:dadrinek00@gmail.com)
 *   🤝  I'm open to collaborating on Shopify, ReactJS, and JS Projects
-*   💻  Currently working on making a Portfolio in NextJS with lighthouse/unlighthouse API implementation to be able to show my site's performance statistics to users
+*   💻  Currently working on making a Portfolio in NextJS with lighthouse/unlighthouse API implementation to be able to make my site's performance statistics visible to users
 
 ### Skills
 
