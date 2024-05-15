@@ -8,7 +8,7 @@ I'm a Frontend Developer, weaving clean, well-documented, and downright magical 
 
 *   ✉️  You can contact me at [dadrinek00@gmail.com](mailto:dadrinek00@gmail.com)
 *   🤝  I'm open to collaborating on Shopify, ReactJS, and JS Projects
-*   💻  Private Paid Jobs that I find
+*   💻  Private Paid Jobs
 
 ### Skills
 
